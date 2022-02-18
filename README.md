@@ -21,4 +21,5 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-
+HTML and CSS is copyright Jacques Leong-Sit 2022 under the CC-BY-SA 4.0 unported license. Attribution should be a hyperlink to the
+repository and 2022 Jacques Leong-Sit visible in the text.
