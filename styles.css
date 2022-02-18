@@ -1,3 +1,23 @@
 body {
-    text-align: justify;
+    background-image : url("oldpaper.jpeg");
+    background-repeat : no-repeat;
+    background-size : 100% 100%;
+}
+
+p {
+    font-family : Garamond, serif;
+    font-size : 12pt;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family : Garamond, serif;
+    font-size : 14pt;
+    font-weight : bold;
+}
+
+img {
+    margin : auto;
+    margin-top : 3em;
+    margin-bottom : 3em;
+    font-style : italic;
 }
