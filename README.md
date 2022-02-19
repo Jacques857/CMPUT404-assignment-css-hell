@@ -37,3 +37,6 @@ References
 Background texture is based on GeeksForGeeks article: https://www.geeksforgeeks.org/how-to-create-texture-background-using-css/
 
 Old Paper image is from: https://wallpapercave.com/old-paper-wallpapers
+
+LoL Champion images are from:
+https://lol.fandom.com/wiki
