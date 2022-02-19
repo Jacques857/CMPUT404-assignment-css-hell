@@ -40,3 +40,6 @@ Old Paper image is from: https://wallpapercave.com/old-paper-wallpapers
 
 LoL Champion images are from:
 https://lol.fandom.com/wiki
+
+Horizontal bar image is from:
+https://t4.ftcdn.net

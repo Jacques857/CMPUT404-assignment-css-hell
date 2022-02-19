@@ -3,19 +3,97 @@ body {
     margin-right : 0pt;
     margin-top : 0pt;
     margin-bottom : 0pt;
-    background-color : #3d3a3a;
+    background-color : white;
     font-family : Arial, Helvetica, sans-serif;
 }
 
 .horizontal-bar {
     width : 100%;
-    height : 4em;
-    box-shadow: 5em;
+    height : 2.5em;
     background-size : 100% 100%;
-    background-image : linear-gradient(red, black);
+    background-image : url("https://t4.ftcdn.net/jpg/04/12/28/57/360_F_412285721_90ZrZh1OmVtBRlZNUanHxebY242e6qo6.jpg");
+}
+
+.horizontal-bar2 {
+    width : 100%;
+    height : 2.5em;
+    background-size : 100% 100%;
+    background-image : linear-gradient(rgb(55, 93, 155) 85%, white 100%);
+}
+
+.horizontal-bar3 {
+    position : relative;
+    width : 100%;
+    height : 2.5em;
+    background-size : 100% 100%;
+    background-image : url("https://t4.ftcdn.net/jpg/04/12/28/57/360_F_412285721_90ZrZh1OmVtBRlZNUanHxebY242e6qo6.jpg");
 }
 
 .cover-section {
-    background-color : gray;
+    background-image : linear-gradient(black 0%, rgb(55, 93, 155) 5%, white 100%);
+    position : relative;
+    margin : auto;
+    width : 100%;
     text-align : center;
+}
+
+.main-image, .cover-section-text {
+    display : inline-block;
+}
+
+.main-image {
+    margin-top : 20pt;
+    margin-left : 0pt;
+    vertical-align : bottom;
+    filter: drop-shadow(5pt 0pt 5pt black)
+}
+
+.cover-section-text {
+    margin-right : 0pt;
+    margin-top : 20pt;
+    vertical-align : top;
+}
+
+h1 {
+    font-family : Georgia, serif;
+    color : orangered;
+    text-shadow : 3pt 3pt black;
+    margin-top : 0pt;
+    padding-top : 0pt;
+    font-size : 33pt;
+    margin-bottom : 0pt;
+    padding-bottom : 0pt;
+}
+
+h3 {
+    margin-bottom : 0pt;
+    padding-bottom : 0pt;
+    margin-top : 0pt;
+    padding-top : 0pt;
+    font-size : 14pt;
+    font-weight : normal;
+}
+
+.bottom-section {
+    position : relative;
+    height : 500pt;
+}
+
+.content-section {
+    position : relative;
+    float : left;
+    width : 75%;
+    height : 100%;
+}
+
+.side-bar {
+    position : relative;
+    float : right;
+    width : 25%;
+    height : 100%;
+}
+
+.side-bar-piece {
+    position : relative;
+    height : 100pt;
 }
