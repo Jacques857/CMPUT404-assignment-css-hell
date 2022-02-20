@@ -34,6 +34,9 @@ Removed background color from .mynote class in the 2.htm style tag.
 References
 ==========
 
+Some CSS is from:
+https://developer.mozilla.org/en-US/docs/Web/CSS
+
 Background texture is based on GeeksForGeeks article: https://www.geeksforgeeks.org/how-to-create-texture-background-using-css/
 
 Old Paper image is from: https://wallpapercave.com/old-paper-wallpapers
@@ -43,3 +46,12 @@ https://lol.fandom.com/wiki
 
 Horizontal bar image is from:
 https://t4.ftcdn.net
+
+Team Liquid image is from:
+https://worldvectorlogo.com
+
+Fnatic image is from:
+https://en.wikipedia.org
+
+LoL image is from:
+https://en.logodownload.org
